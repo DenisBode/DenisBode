@@ -1,158 +1,166 @@
-<!-- HEADER -->
-<h1 align="center">🎮 Denis' Developer Journey</h1>
+<h1 align="center">Denis Bode</h1>
 
 <p align="center">
-  <b>Lernender Web-Entwickler in Weiterbildung bei der Developer Akademie</b><br>
-  Fokus bisher: <code>HTML</code> & <code>CSS</code>
+  <b>Web Development Learner</b><br>
+  Weiterbildung bei der <b>Developer Akademie</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20Mode-22c55e?style=for-the-badge" alt="Status Learning Mode" />
-  <img src="https://img.shields.io/badge/Weiterbildung-Developer%20Akademie-3b82f6?style=for-the-badge" alt="Weiterbildung Developer Akademie" />
-  <img src="https://img.shields.io/badge/Module-1%20bis%205-abgeschlossen-8b5cf6?style=for-the-badge" alt="Module 1 bis 5 abgeschlossen" />
+  <img src="https://img.shields.io/badge/Status-In%20Weiterbildung-2563eb?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Fokus-HTML%20%7C%20CSS%20%7C%20JavaScript-0f766e?style=for-the-badge" alt="Fokus" />
+  <img src="https://img.shields.io/badge/Projektabnahmen-2-success?style=for-the-badge" alt="Projektabnahmen" />
 </p>
 
----
+<hr>
 
-<h2>🕹️ Player Profile</h2>
+<h2>Über mich</h2>
+
+<p>
+Ich befinde mich aktuell in einer Weiterbildung bei der <b>Developer Akademie</b> und baue mein Wissen in der Webentwicklung Schritt für Schritt strukturiert auf.
+</p>
+
+<p>
+Die Grundlagen in <b>HTML</b> und <b>CSS</b> habe ich bereits erfolgreich erarbeitet. Aktuell starte ich mit <b>JavaScript</b>, um meine Frontend-Kenntnisse gezielt zu erweitern und interaktive Webanwendungen zu verstehen und umzusetzen.
+</p>
+
+<p>
+Ich lerne praxisnah, arbeite gerne strukturiert und entwickle mich über reale Aufgaben und Projekte kontinuierlich weiter.
+</p>
+
+<hr>
+
+<h2>Aktueller Lernstand</h2>
 
 <table>
   <tr>
-    <td><b>Name</b></td>
-    <td>Denis</td>
+    <td><b>Weiterbildung</b></td>
+    <td>Developer Akademie</td>
   </tr>
   <tr>
-    <td><b>Rolle</b></td>
-    <td>Lernender Web-Entwickler</td>
+    <td><b>Abgeschlossene Module</b></td>
+    <td>Modul 1 bis 5</td>
   </tr>
   <tr>
-    <td><b>Aktuelle Mission</b></td>
-    <td>Weiterbildung bei der Developer Akademie</td>
+    <td><b>Abgeschlossene Themen</b></td>
+    <td>HTML, CSS</td>
   </tr>
   <tr>
-    <td><b>Level-Fokus</b></td>
-    <td>HTML &amp; CSS</td>
+    <td><b>Aktuelles Thema</b></td>
+    <td>JavaScript</td>
   </tr>
   <tr>
-    <td><b>Spielstil</b></td>
-    <td>Strukturiert, lernbereit, praxisorientiert</td>
+    <td><b>Projektabnahmen</b></td>
+    <td>2 erfolgreich abgeschlossen</td>
   </tr>
 </table>
 
-<p>
-Ich befinde mich aktuell in einer Weiterbildung bei der <b>Developer Akademie</b> und arbeite mich Schritt für Schritt in die Webentwicklung ein.
-Die Module <b>1 bis 5</b> habe ich bereits durchgearbeitet.
-Dabei lag mein Schwerpunkt bisher auf <b>HTML</b> und <b>CSS</b>.
-</p>
+<hr>
+
+<h2>Skills</h2>
 
 <p>
-Mein Ziel ist es, mein Wissen sauber aufzubauen, praktische Erfahrung über Projekte zu sammeln und mich kontinuierlich weiterzuentwickeln.
-</p>
-
----
-
-<h2>📈 Progress Bar</h2>
-
-<p><b>Module abgeschlossen:</b> 5 / ?</p>
-<p>█████░░░░░ <b>Early Game cleared</b></p>
-
-<p><b>Abgenommene Projektaufgaben:</b> 2</p>
-<p>✅ Projektabnahme in <b>Modul 2</b><br>
-✅ Projektabnahme in <b>Modul 5</b></p>
-
----
-
-<h2>🧠 Skills unlocked</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-Learned-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-Learned-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML-Abgeschlossen-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-Abgeschlossen-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-Aktuell%20im%20Lernprozess-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 <ul>
-  <li>Grundlagen von HTML-Struktur</li>
-  <li>Semantische Elemente verstehen und einsetzen</li>
-  <li>Arbeiten mit Texten, Bildern, Links und Listen</li>
-  <li>CSS-Styling und Layout-Grundlagen</li>
-  <li>Abstände, Farben, Größen und Positionierung</li>
-  <li>Erste responsive Denkweise und saubere Seitenstruktur</li>
+  <li>Saubere HTML-Strukturen aufbauen</li>
+  <li>Semantische Elemente sinnvoll einsetzen</li>
+  <li>Layouts und Gestaltung mit CSS umsetzen</li>
+  <li>Responsive Grundprinzipien verstehen</li>
+  <li>Erste interaktive Logiken mit JavaScript aufbauen</li>
 </ul>
 
----
+<hr>
 
-<h2>⏳ Timeline</h2>
+<h2>Fortschritt</h2>
+
+<p><b>Module 1–5:</b> abgeschlossen</p>
+<p><b>HTML:</b> abgeschlossen</p>
+<p><b>CSS:</b> abgeschlossen</p>
+<p><b>JavaScript:</b> gestartet</p>
+
+<pre>
+Progress:
+[████████░░] Frontend Foundation aufgebaut
+</pre>
+
+<p>
+Kleiner Progress-Touch, aber mit professionellem Fokus: Die Basis steht, jetzt folgt der nächste Schritt mit JavaScript.
+</p>
+
+<hr>
+
+<h2>Timeline</h2>
 
 <table>
   <tr>
-    <th>Checkpoint</th>
+    <th>Phase</th>
     <th>Status</th>
     <th>Beschreibung</th>
   </tr>
   <tr>
     <td>Modul 1</td>
-    <td>✅ Clear</td>
-    <td>Einstieg in die Webentwicklung und erste Grundlagen</td>
+    <td>✅</td>
+    <td>Einstieg in die Grundlagen der Webentwicklung</td>
   </tr>
   <tr>
     <td>Modul 2</td>
-    <td>✅ Clear</td>
-    <td>Projektaufgabe erfolgreich bearbeitet und abgenommen</td>
+    <td>✅</td>
+    <td>Erste Projektaufgabe erfolgreich umgesetzt und abgenommen</td>
   </tr>
   <tr>
     <td>Modul 3</td>
-    <td>✅ Clear</td>
-    <td>Weiterer Ausbau der HTML- und CSS-Kenntnisse</td>
+    <td>✅</td>
+    <td>Vertiefung von HTML- und CSS-Grundlagen</td>
   </tr>
   <tr>
     <td>Modul 4</td>
-    <td>✅ Clear</td>
-    <td>Vertiefung von Struktur, Aufbau und sauberem Arbeiten</td>
+    <td>✅</td>
+    <td>Weitere Festigung von Struktur, Layout und sauberem Arbeiten</td>
   </tr>
   <tr>
     <td>Modul 5</td>
-    <td>✅ Clear</td>
-    <td>Zweite Projektaufgabe erfolgreich abgenommen</td>
+    <td>✅</td>
+    <td>Zweite Projektaufgabe erfolgreich abgeschlossen und abgenommen</td>
   </tr>
   <tr>
-    <td>Nächstes Level</td>
-    <td>🎯 Active</td>
-    <td>Weitere Skills freischalten und das Frontend-Wissen erweitern</td>
+    <td>Aktuelle Phase</td>
+    <td>🚀</td>
+    <td>Einstieg in JavaScript und Ausbau interaktiver Frontend-Skills</td>
   </tr>
 </table>
 
----
+<hr>
 
-<h2>🏆 Milestones</h2>
+<h2>Projekte & Meilensteine</h2>
 
 <ul>
-  <li>✅ Weiterbildung bei der Developer Akademie gestartet</li>
-  <li>✅ Module 1 bis 5 durchgearbeitet</li>
-  <li>✅ 2 Projektaufgaben erfolgreich abgenommen</li>
-  <li>✅ Solide Grundlagen in HTML und CSS aufgebaut</li>
+  <li>2 Projektaufgaben erfolgreich abgenommen</li>
+  <li>Module 1 bis 5 durchgearbeitet</li>
+  <li>Fundament in HTML und CSS aufgebaut</li>
+  <li>Start in JavaScript als nächster Entwicklungsschritt</li>
 </ul>
 
----
+<hr>
 
-<h2>🎯 Current Focus</h2>
-
-<p>
-Aktuell konzentriere ich mich darauf, meine Grundlagen in <b>HTML</b> und <b>CSS</b> weiter zu festigen,
-sauberere Strukturen zu bauen und mich Schritt für Schritt in die praktische Frontend-Entwicklung einzuarbeiten.
-</p>
-
----
-
-<h2>🚀 Mission</h2>
+<h2>Ziel</h2>
 
 <p>
-Mein Weg ist klar: lernen, umsetzen, verbessern.
-Ich möchte mich als Entwickler weiterentwickeln, an echten Projekten wachsen und mein Wissen Modul für Modul in die Praxis übertragen.
+Mein Ziel ist es, meine Kenntnisse in der Frontend-Entwicklung weiter auszubauen, praktische Erfahrung in Projekten zu sammeln und Schritt für Schritt ein solides technisches Fundament als Entwickler aufzubauen.
 </p>
 
----
+<hr>
 
-<h2>📌 Motto</h2>
+<h2>Kontakt / Profile</h2>
 
-<blockquote>
-  <b>Level für Level zum Developer.</b>
-</blockquote>
+<p>
+Hier kannst du später noch Links ergänzen, zum Beispiel zu:
+</p>
+
+<ul>
+  <li>GitHub-Projekten</li>
+  <li>Portfolio</li>
+  <li>LinkedIn</li>
+</ul>
