@@ -155,12 +155,3 @@ Mein Ziel ist es, meine Kenntnisse in der Frontend-Entwicklung weiter auszubauen
 
 <h2>Kontakt / Profile</h2>
 
-<p>
-Hier kannst du später noch Links ergänzen, zum Beispiel zu:
-</p>
-
-<ul>
-  <li>GitHub-Projekten</li>
-  <li>Portfolio</li>
-  <li>LinkedIn</li>
-</ul>
