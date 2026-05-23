@@ -76,7 +76,7 @@ Ich lerne praxisnah, arbeite gerne strukturiert und entwickle mich über reale A
 
 <h2>Fortschritt</h2>
 
-<p><b>Module 1–5:</b> abgeschlossen</p>
+<p><b>Module 1–6:</b> abgeschlossen</p>
 <p><b>HTML:</b> abgeschlossen</p>
 <p><b>CSS:</b> abgeschlossen</p>
 <p><b>JavaScript:</b> gestartet</p>
@@ -138,7 +138,7 @@ Kleiner Progress-Touch, aber mit professionellem Fokus: Die Basis steht, jetzt f
 
 <ul>
   <li>2 Projektaufgaben erfolgreich abgenommen</li>
-  <li>Module 1 bis 5 durchgearbeitet</li>
+  <li>Module 1 bis 6 durchgearbeitet</li>
   <li>Fundament in HTML und CSS aufgebaut</li>
   <li>Start in JavaScript als nächster Entwicklungsschritt</li>
 </ul>
