@@ -38,7 +38,7 @@ Ich lerne praxisnah, arbeite gerne strukturiert und entwickle mich über reale A
   </tr>
   <tr>
     <td><b>Abgeschlossene Module</b></td>
-    <td>Modul 1 bis 5</td>
+    <td>Modul 1 bis 7</td>
   </tr>
   <tr>
     <td><b>Abgeschlossene Themen</b></td>
@@ -50,7 +50,7 @@ Ich lerne praxisnah, arbeite gerne strukturiert und entwickle mich über reale A
   </tr>
   <tr>
     <td><b>Projektabnahmen</b></td>
-    <td>2 erfolgreich abgeschlossen</td>
+    <td>4 erfolgreich abgeschlossen</td>
   </tr>
 </table>
 
