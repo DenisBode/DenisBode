@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Weiterbildung-2563eb?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Fokus-HTML%20%7C%20CSS%20%7C%20JavaScript-0f766e?style=for-the-badge" alt="Fokus" />
-  <img src="https://img.shields.io/badge/Projektabnahmen-2-success?style=for-the-badge" alt="Projektabnahmen" />
+  <img src="https://img.shields.io/badge/Fokus-JavaScript%20%7C%20APIs%20%7C%20Frontend-0f766e?style=for-the-badge" alt="Fokus" />
+  <img src="https://img.shields.io/badge/Projektabnahmen-4-success?style=for-the-badge" alt="Projektabnahmen" />
 </p>
 
 <hr>
@@ -20,7 +20,7 @@ Ich befinde mich aktuell in einer Weiterbildung bei der <b>Developer Akademie</b
 </p>
 
 <p>
-Die Grundlagen in <b>HTML</b> und <b>CSS</b> habe ich bereits erfolgreich erarbeitet. Aktuell starte ich mit <b>JavaScript</b>, um meine Frontend-Kenntnisse gezielt zu erweitern und interaktive Webanwendungen zu verstehen und umzusetzen.
+Die Grundlagen in <b>HTML</b>, <b>CSS</b> und erste wichtige Bereiche in <b>JavaScript</b> habe ich bereits erfolgreich erarbeitet. In <b>Modul 8</b> lag mein Fokus auf dem Arbeiten mit <b>APIs</b>, um externe Daten in Webanwendungen einzubinden und dynamische Inhalte umzusetzen.
 </p>
 
 <p>
@@ -38,15 +38,15 @@ Ich lerne praxisnah, arbeite gerne strukturiert und entwickle mich über reale A
   </tr>
   <tr>
     <td><b>Abgeschlossene Module</b></td>
-    <td>Modul 1 bis 7</td>
+    <td>Modul 1 bis 8</td>
   </tr>
   <tr>
     <td><b>Abgeschlossene Themen</b></td>
-    <td>HTML, CSS</td>
+    <td>HTML, CSS, JavaScript-Grundlagen, API-Grundlagen</td>
   </tr>
   <tr>
     <td><b>Aktuelles Thema</b></td>
-    <td>JavaScript</td>
+    <td>Vertiefung JavaScript & API-Anbindung</td>
   </tr>
   <tr>
     <td><b>Projektabnahmen</b></td>
@@ -61,33 +61,40 @@ Ich lerne praxisnah, arbeite gerne strukturiert und entwickle mich über reale A
 <p>
   <img src="https://img.shields.io/badge/HTML-Abgeschlossen-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-Abgeschlossen-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-Aktuell%20im%20Lernprozess-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-Im%20Aufbau-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/APIs-Grundlagen%20abgeschlossen-0f766e?style=flat-square" alt="APIs" />
 </p>
 
 <ul>
   <li>Saubere HTML-Strukturen aufbauen</li>
   <li>Semantische Elemente sinnvoll einsetzen</li>
   <li>Layouts und Gestaltung mit CSS umsetzen</li>
-  <li>Responsive Grundprinzipien verstehen</li>
+  <li>Responsive Grundprinzipien verstehen und anwenden</li>
+  <li>JavaScript-Grundlagen anwenden</li>
   <li>Erste interaktive Logiken mit JavaScript aufbauen</li>
+  <li>Daten aus APIs abrufen und weiterverarbeiten</li>
+  <li>Dynamische Inhalte auf Webseiten darstellen</li>
+  <li>Code strukturiert lesen, verstehen und verbessern</li>
+  <li>Praxisorientiertes Arbeiten an Projektaufgaben</li>
 </ul>
 
 <hr>
 
 <h2>Fortschritt</h2>
 
-<p><b>Module 1–6:</b> abgeschlossen</p>
+<p><b>Module 1–8:</b> abgeschlossen</p>
 <p><b>HTML:</b> abgeschlossen</p>
 <p><b>CSS:</b> abgeschlossen</p>
-<p><b>JavaScript:</b> gestartet</p>
+<p><b>JavaScript:</b> im Aufbau</p>
+<p><b>APIs:</b> Grundlagen abgeschlossen</p>
 
 <pre>
 Progress:
-[████████░░] Frontend Foundation aufgebaut
+[█████████░] Frontend Foundation + API-Grundlagen aufgebaut
 </pre>
 
 <p>
-Kleiner Progress-Touch, aber mit professionellem Fokus: Die Basis steht, jetzt folgt der nächste Schritt mit JavaScript.
+Die Basis in HTML, CSS und JavaScript steht. Mit Modul 8 kam der wichtige Schritt dazu, externe Daten über APIs in eigene Webanwendungen einzubinden.
 </p>
 
 <hr>
@@ -123,12 +130,27 @@ Kleiner Progress-Touch, aber mit professionellem Fokus: Die Basis steht, jetzt f
   <tr>
     <td>Modul 5</td>
     <td>✅</td>
-    <td>Zweite Projektaufgabe erfolgreich abgeschlossen und abgenommen</td>
+    <td>Weitere Projektaufgabe erfolgreich abgeschlossen und abgenommen</td>
+  </tr>
+  <tr>
+    <td>Modul 6</td>
+    <td>✅</td>
+    <td>Ausbau der Frontend-Grundlagen mit HTML und CSS</td>
+  </tr>
+  <tr>
+    <td>Modul 7</td>
+    <td>✅</td>
+    <td>Einstieg und Vertiefung wichtiger JavaScript-Grundlagen</td>
+  </tr>
+  <tr>
+    <td>Modul 8</td>
+    <td>✅</td>
+    <td>Arbeiten mit APIs und Einbindung externer Daten in Webanwendungen</td>
   </tr>
   <tr>
     <td>Aktuelle Phase</td>
     <td>🚀</td>
-    <td>Einstieg in JavaScript und Ausbau interaktiver Frontend-Skills</td>
+    <td>Vertiefung von JavaScript, API-Anbindungen und dynamischen Frontend-Projekten</td>
   </tr>
 </table>
 
@@ -137,10 +159,25 @@ Kleiner Progress-Touch, aber mit professionellem Fokus: Die Basis steht, jetzt f
 <h2>Projekte & Meilensteine</h2>
 
 <ul>
-  <li>2 Projektaufgaben erfolgreich abgenommen</li>
-  <li>Module 1 bis 6 durchgearbeitet</li>
+  <li>4 Projektaufgaben erfolgreich abgenommen</li>
+  <li>Module 1 bis 8 durchgearbeitet</li>
   <li>Fundament in HTML und CSS aufgebaut</li>
-  <li>Start in JavaScript als nächster Entwicklungsschritt</li>
+  <li>JavaScript-Grundlagen erweitert</li>
+  <li>API-Grundlagen kennengelernt und praktisch angewendet</li>
+  <li>Kontinuierlicher Aufbau eines eigenen Entwicklerprofils</li>
+</ul>
+
+<hr>
+
+<h2>Aktueller Fokus</h2>
+
+<ul>
+  <li>JavaScript weiter festigen</li>
+  <li>APIs abrufen und Daten verarbeiten</li>
+  <li>Interaktive und dynamische Webseiten entwickeln</li>
+  <li>DOM-Manipulation sicherer anwenden</li>
+  <li>Logisches Denken beim Programmieren stärken</li>
+  <li>Eigene Projekte sauber strukturieren und weiterentwickeln</li>
 </ul>
 
 <hr>
@@ -155,3 +192,8 @@ Mein Ziel ist es, meine Kenntnisse in der Frontend-Entwicklung weiter auszubauen
 
 <h2>Kontakt / Profile</h2>
 
+<p>
+  <a href="https://github.com/denisbode">
+    <img src="https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
