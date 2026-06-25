@@ -159,7 +159,7 @@ Die Basis in HTML, CSS und JavaScript steht. Mit Modul 8 kam der wichtige Schrit
 <h2>Projekte & Meilensteine</h2>
 
 <ul>
-  <li>4 Projektaufgaben erfolgreich abgenommen</li>
+  <li>5 Projektaufgaben erfolgreich abgenommen</li>
   <li>Module 1 bis 8 durchgearbeitet</li>
   <li>Fundament in HTML und CSS aufgebaut</li>
   <li>JavaScript-Grundlagen erweitert</li>
