@@ -100,14 +100,6 @@ Teamwork   ████░░░░░░ Join-Projekt (läuft)
 
 <br>
 
-<!-- GITHUB STATS -->
-<h2>◆ GitHub</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=denisbode&show_icons=true&hide_border=true&title_color=2563eb&icon_color=7c3aed&text_color=8b949e&bg_color=00000000" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisbode&layout=compact&hide_border=true&title_color=2563eb&text_color=8b949e&bg_color=00000000" alt="top langs" />
-</p>
-
 <br>
 
 <!-- GOAL -->
